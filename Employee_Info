@@ -1,0 +1,4 @@
+def main():
+    emp1 = Employee('Bob', 60000, 'sales')
+    
+    emp2 = Employee('Cindy', 70000, 'HR')
